@@ -1,14 +1,98 @@
 {
     "sol": {
-        "name": "SOL ソル",
-        "key": "sol"
+        "name": "スパニッシュイタリアン酒場 SOL ソル",
+        "short_name": "SOL ソル",
+        "key": "sol",
+        "description": "シェフこだわりの本格的スパニッシュイタリアン料理をお弁当で！",
+        "zipcode": "",
+        "address": "",
+        "tel": "",
+        "url": "",
+        "items": {
+            "roastbeefbowl": {
+                "name": "ローストビーフ丼",
+                "price": 1200,
+                "description": "サーロインを使った贅沢な一品！",
+                "image_path": "roastbeefbowl.jpg"
+            },
+            "friedcheckenbowl": {
+                "name": "からあげ丼",
+                "price": 900,
+                "description": "自家製唐揚げと特製マヨソースが絶妙にマッチ！",
+                "image_path": "friedcheckenbowl.jpg"
+            },
+            "roastbeefbowl2": {
+                "name": "ローストビーフ丼",
+                "price": 1200,
+                "description": "サーロインを使った贅沢な一品！",
+                "image_path": "roastbeefbowl.jpg"
+            },
+            "friedcheckenbowl2": {
+                "name": "からあげ丼",
+                "price": 900,
+                "description": "自家製唐揚げと特製マヨソースが絶妙にマッチ！",
+                "image_path": "friedcheckenbowl.jpg"
+            },
+            "roastbeefbowl3": {
+                "name": "ローストビーフ丼",
+                "price": 1200,
+                "description": "サーロインを使った贅沢な一品！",
+                "image_path": "roastbeefbowl.jpg"
+            },
+            "friedcheckenbowl3": {
+                "name": "からあげ丼",
+                "price": 900,
+                "description": "自家製唐揚げと特製マヨソースが絶妙にマッチ！",
+                "image_path": "friedcheckenbowl.jpg"
+            }
+        }
     },
     "zol": {
-        "name": "ZOL ゾル",
-        "key": "zol"
+        "name": "ブリティッシュフレンチ 酒場 ZOL ゾル",
+        "short_name": "ZOL ゾル",
+        "key": "zol",
+        "description": "シェフこだわりの本格的スパニッシュイタリアン料理をお弁当で！",
+        "zipcode": "",
+        "address": "",
+        "tel": "",
+        "url": "",
+        "items": {
+            "roastbeefbowl": {
+                "name": "ローストビーフ丼",
+                "price": 1200,
+                "description": "サーロインを使った贅沢な一品！",
+                "image_path": "roastbeefbowl.jpg"
+            },
+            "friedcheckenbowl": {
+                "name": "からあげ丼",
+                "price": 900,
+                "description": "自家製唐揚げと特製マヨソースが絶妙にマッチ！",
+                "image_path": "friedcheckenbowl.jpg"
+            }
+        }
     },
     "jol": {
-        "name": "JOL ジョル",
-        "key": "jol"
+        "name": "アイリッシュスカンジナビアン酒場 JOL ジョル",
+        "short_name": "JOL ジョル",
+        "key": "jol",
+        "description": "シェフこだわりの本格的スパニッシュイタリアン料理をお弁当で！",
+        "zipcode": "",
+        "address": "",
+        "tel": "",
+        "url": "",
+        "items": {
+            "roastbeefbowl": {
+                "name": "ローストビーフ丼",
+                "price": 1200,
+                "description": "サーロインを使った贅沢な一品！",
+                "image_path": "roastbeefbowl.jpg"
+            },
+            "friedcheckenbowl": {
+                "name": "からあげ丼",
+                "price": 900,
+                "description": "自家製唐揚げと特製マヨソースが絶妙にマッチ！",
+                "image_path": "friedcheckenbowl.jpg"
+            }
+        }
     }
 }

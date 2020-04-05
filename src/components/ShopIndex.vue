@@ -12,7 +12,7 @@
             >
               <v-card min-height="200px" class="pa-3">
                 <router-link v-bind:to="{ name : 'ShopDetail', params : { key: shop.key }}" @click.native="setShop(shop.key)">
-                    <h3>{{ shop.name }}</h3>
+                    <h3>{{ shop.short_name }}</h3>
                     <img class="thumbnail" v-bind:src="require('@/assets/shops/' + shop.key + '/thumbnail.jpg')" alt="">
                 </router-link>
               </v-card>

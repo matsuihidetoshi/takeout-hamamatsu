@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app :style="{background: '#ffeedd'}">
     <v-navigation-drawer
       v-model="drawer"
       app
