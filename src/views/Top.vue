@@ -99,7 +99,7 @@
         },
         {
           text: 'このサイトのGitHub',
-          href: 'https://github.com/matsuihidetoshi/hamamatsu-food-deli',
+          href: 'https://github.com/matsuihidetoshi/takeout-hamamatsu',
         },
       ],
       whatsNext: [

@@ -12,7 +12,7 @@
             <span>追加していただくことで開発に</span>
             <span>貢献していただくことができます。</span>
           </p>
-          <a href="https://github.com/matsuihidetoshi/hamamatsu-food-deli" target="_blank">GitHub</a>
+          <a href="https://github.com/matsuihidetoshi/takeout-hamamatsu" target="_blank">GitHub</a>
         </v-col>
       </v-row>
     </v-container>
