@@ -1,0 +1,15 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-takeout-hamamatsu-master-125707-authRole",
+            "UnauthRoleArn": "arn:aws:iam::783159031027:role/amplify-takeout-hamamatsu-master-125707-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::783159031027:role/amplify-takeout-hamamatsu-master-125707-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-takeout-hamamatsu-master-125707-deployment",
+            "UnauthRoleName": "amplify-takeout-hamamatsu-master-125707-unauthRole",
+            "StackName": "amplify-takeout-hamamatsu-master-125707",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:783159031027:stack/amplify-takeout-hamamatsu-master-125707/8678a1b0-76f1-11ea-811a-0af1581a9dde",
+            "AmplifyAppId": "d2k450g2131vlr"
+        }
+    }
+}
