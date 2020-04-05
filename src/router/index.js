@@ -2,7 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Top from '../views/Top.vue'
 import ShopIndex from '../components/ShopIndex.vue'
-import Sol from '../components/shops/Sol.vue'
+import ShopDetail from '../components/ShopDetail.vue'
 
 Vue.use(VueRouter)
 
@@ -18,9 +18,9 @@ const routes = [
     component: ShopIndex
   },
   {
-    path: '/shops/sol',
-    name: 'Sol',
-    component: Sol
+    path: '/shop',
+    name: 'ShopDetail',
+    component: ShopDetail
   },
   {
     path: '/about',
