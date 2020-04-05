@@ -18,7 +18,7 @@ const routes = [
     component: ShopIndex
   },
   {
-    path: '/shop',
+    path: '/shop/:key',
     name: 'ShopDetail',
     component: ShopDetail
   },

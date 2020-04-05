@@ -1,14 +1,14 @@
 {
     "sol": {
-        "name": "スパニッシュイタリアン酒場 SOL ソル",
+        "name": "SOL ソル",
         "key": "sol"
     },
     "zol": {
-        "name": "ブリティッシュフレンチ酒場 ZOL ゾル",
+        "name": "ZOL ゾル",
         "key": "zol"
     },
     "jol": {
-        "name": "アイリッシュスカンジナビアン酒場 JOL ジョル",
+        "name": "JOL ジョル",
         "key": "jol"
     }
 }

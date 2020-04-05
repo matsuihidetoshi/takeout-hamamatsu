@@ -11,7 +11,7 @@
               xs6 sm6 md4 text-center class="pa-3"
             >
               <v-card min-height="200px" class="pa-3">
-                <router-link to="/shop" @click.native="setShop(shop.key)">
+                <router-link v-bind:to="{ name : 'ShopDetail', params : { key: shop.key }}" @click.native="setShop(shop.key)">
                     <h3>{{ shop.name }}</h3>
                     <img class="thumbnail" v-bind:src="require('@/assets/shops/' + shop.key + '/thumbnail.jpg')" alt="">
                 </router-link>
@@ -34,7 +34,7 @@ export default {
     },
     methods: {
       setShop: function(key) {
-        this.$store.state.shop = key
+        localStorage.shop = key
       }
     }
 }

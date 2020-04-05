@@ -20,8 +20,8 @@
         </p>
       </v-col>
 
-      <v-flex xs12 sm6 md4 text-center my-5 class="pa-3">
-        <v-card min-height="300px" class="pa-3">
+      <v-flex xs12 sm6 md6 text-center my-5 class="pa-3">
+        <v-card min-height="330px" class="pa-3">
           <h2 class="headline font-weight-bold mb-3">
             使い方
           </h2>
@@ -36,8 +36,8 @@
         </v-card>
       </v-flex>
 
-      <v-flex xs12 sm6 md4 text-center my-5 class="pa-3 mh-10">
-        <v-card min-height="300px" class="pa-3">
+      <v-flex xs12 sm6 md6 text-center my-5 class="pa-3 mh-10">
+        <v-card min-height="330px" class="pa-3">
           <h2 class="headline font-weight-bold mb-3">
             大事なページ
           </h2>
